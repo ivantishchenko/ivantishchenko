@@ -1,7 +1,7 @@
 ## Hi there, I'm Ivan 👋🏻 🖥️
 
 ### Find me on the web 🌐:
-- Visit my website [tishchenko.me](tishchenko.me)
+- Visit my website [tishchenko.me](https://tishchenko.me)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-tishchenko/)
 
 <img src="https://media.giphy.com/media/U3ZoIyURo8cMrnB7nf/giphy.gif" width="100" height="100"/>
