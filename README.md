@@ -4,8 +4,12 @@
 - Visit me website [tishchenko.me](tishchenko.me)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-tishchenko/)
 
+![Hello](https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif)
+
+
 <!--
 **ivantishchenko/ivantishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif
 
 Here are some ideas to get you started:
 
