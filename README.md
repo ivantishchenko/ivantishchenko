@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Ivan 👋🏻, 🖥️, 
+
+### Find me on the web 🌐:
+- Visit me website [tishchenko.me](tishchenko.me)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-tishchenko/)
 
 <!--
 **ivantishchenko/ivantishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
