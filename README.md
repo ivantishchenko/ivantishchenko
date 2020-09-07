@@ -1,4 +1,4 @@
-## Hi there, I'm Ivan 👋🏻, 🖥️, 
+## Hi there, I'm Ivan 👋🏻 🖥️
 
 ### Find me on the web 🌐:
 - Visit me website [tishchenko.me](tishchenko.me)
